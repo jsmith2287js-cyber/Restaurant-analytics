@@ -24,5 +24,7 @@ The objective of this analysis was to identify the operational conditions most s
 
 ## Files
 
+## Files
+
 - `restaurant_wait_time_customer_satisfaction_analysis.ipynb`
-- `restaurant_operations.csv`
+- `restaurant_wait_time_project_dataset.csv`
